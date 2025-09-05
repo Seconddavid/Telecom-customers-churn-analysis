@@ -44,6 +44,6 @@ The dataset includes telecom customer information such as:
 ---
 
 ## Author  
-Anamezie Chukwuemeka David  
+Anamezie David  
 Data Analyst | Python • SQL • Pandas • Data Visualization  
 2025
